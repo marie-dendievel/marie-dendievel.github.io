@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FIRSTNAME FAMILYNAME on FIRSTNAME FAMILYNAME</title>
+    <link>/</link>
+    <description>Recent content in FIRSTNAME FAMILYNAME on FIRSTNAME FAMILYNAME</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 FIRSTNAME FAMILYNAME (license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/))</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Test de R Markdown</title>
+      <link>/post/2018-09-24-r-rmarkdown/</link>
+      <pubDate>Mon, 24 Sep 2018 18:36:00 -0100</pubDate>
+      
+      <guid>/post/2018-09-24-r-rmarkdown/</guid>
+      <description>&lt;p&gt;Dans un document R Markdown on peut utiliser naturellement la syntaxe &lt;strong&gt;Markdown&lt;/strong&gt;, mais aussi du code R dans des “chunks”, comme ci-dessous pour générer un graphique (Fig. &lt;a href=&#34;#fig:pie&#34;&gt;1&lt;/a&gt;) :&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;par(mar = c(0, 1, 0, 1))
+pie(
+  c(280, 60, 20),
+  c(&amp;#39;Sky&amp;#39;, &amp;#39;Sunny side of pyramid&amp;#39;, &amp;#39;Shady side of pyramid&amp;#39;),
+  col = c(&amp;#39;#0292D8&amp;#39;, &amp;#39;#F7EA39&amp;#39;, &amp;#39;#C4B632&amp;#39;),
+  init.angle = -50, border = NA
+)&lt;/code&gt;&lt;/pre&gt;
+&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
+&lt;img src=&#34;./post/2018-09-24-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;Un superbe graphique en camembert.&#34; width=&#34;672&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figure 1: Un superbe graphique en camembert.
+&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My project</title>
+      <link>/project/example-project/</link>
+      <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/example-project/</guid>
+      <description>&lt;p&gt;Here I describe my project using Markdown formatting...&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>/talk/example-talk/</link>
+      <pubDate>Tue, 28 Nov 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/talk/example-talk/</guid>
+      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mon premier blog</title>
+      <link>/post/getting-started/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/post/getting-started/</guid>
+      <description>
+
+&lt;p&gt;Le contenu ici&lt;/p&gt;
+
+&lt;h2 id=&#34;un-titre&#34;&gt;Un titre&lt;/h2&gt;
+
+&lt;p&gt;Du texte &lt;strong&gt;avec une partie en gras&lt;/strong&gt;...&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
