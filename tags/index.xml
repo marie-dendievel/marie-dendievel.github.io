@@ -1,25 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on FIRSTNAME FAMILYNAME</title>
+    <title>Tags on Marie Dendievel</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on FIRSTNAME FAMILYNAME</description>
+    <description>Recent content in Tags on Marie Dendievel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 FIRSTNAME FAMILYNAME (license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/))</copyright>
-    <lastBuildDate>Mon, 24 Sep 2018 18:36:00 -0100</lastBuildDate>
+    <copyright>&amp;copy; 2018 Marie Dendievel (license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/))</copyright>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>R Markdown</title>
-      <link>/tags/r-markdown/</link>
-      <pubDate>Mon, 24 Sep 2018 18:36:00 -0100</pubDate>
-      
-      <guid>/tags/r-markdown/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>academic</title>
@@ -54,15 +44,6 @@
       <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/science/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>website</title>
-      <link>/tags/website/</link>
-      <pubDate>Mon, 24 Sep 2018 18:36:00 -0100</pubDate>
-      
-      <guid>/tags/website/</guid>
       <description></description>
     </item>
     

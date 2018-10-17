@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hugo on FIRSTNAME FAMILYNAME</title>
+    <title>hugo on Marie Dendievel</title>
     <link>/tags/hugo/</link>
-    <description>Recent content in hugo on FIRSTNAME FAMILYNAME</description>
+    <description>Recent content in hugo on Marie Dendievel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 FIRSTNAME FAMILYNAME (license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/))</copyright>
+    <copyright>&amp;copy; 2018 Marie Dendievel (license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/))</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
