@@ -13,12 +13,12 @@
     
     
     <item>
-      <title>My project</title>
+      <title>Immunothérapie</title>
       <link>/project/example-project/</link>
       <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/project/example-project/</guid>
-      <description>Here I describe my project using Markdown formatting...</description>
+      <description>L&#39;immunothérapie est un traitement qui fait appel au système immunitaire pour combattre le cancer. Notre corps est protègé par un système immunitaire, ce dernier est capable de reconnaitre et d&#39;éliminer les agents extérieurs tels que les bactéries ou les virus (on appelle ces agents des antigènes). Ceux-ci présentent à leur surface des particules qui ne sont pas reconnues par le corps et vont donc déclencher une réaction du système immunitaire. Malheuresement, ce système ne réagit pas de la même manière face aux cellules cancéreuses.</description>
     </item>
     
   </channel>

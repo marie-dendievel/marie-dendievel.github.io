@@ -11,12 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>My project</title>
+      <title>Immunothérapie</title>
       <link>/project/example-project/</link>
       <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/project/example-project/</guid>
-      <description>&lt;p&gt;Here I describe my project using Markdown formatting...&lt;/p&gt;
+      <description>&lt;p&gt;L&#39;immunothérapie est un traitement qui fait appel au système immunitaire pour combattre le cancer.
+Notre corps est protègé par un système immunitaire, ce dernier est capable de reconnaitre et d&#39;éliminer les agents extérieurs tels que les bactéries ou les virus (on appelle ces agents des antigènes). Ceux-ci présentent à leur surface des particules qui ne sont pas reconnues par le corps et vont donc déclencher une réaction du système immunitaire. Malheuresement, ce système ne réagit pas de la même manière face aux cellules cancéreuses. Des recherches ont montré que notre système immunitaire, bien qu&#39;ayant la capacité de réagir à ces cellules, n&#39;est pas assez efficace ou intervient trop tard. Les cellules malades sont également capable de libèrer des substances pour rendre inefficace notre système.
+L&#39;immunothérapie fait intervenir diffèrents traitements notamment l&#39;utilisation des lymphocytes qui sont des cellules du système immunitaire. Deux types de lymphocytes existent, les lymphocytes B et T. Nous retrouvons ces cellules dans le sang, la moelle osseuse et les tissus lymphoïdes. La vaccination est un autre traitement qui doit encore être expérimenté, cette technique consiste à administrer des substances étrangères pour déclencher uné réponse du système immunitaire. Un troisième traitement existe, il s&#39;agit d&#39;anticorps monoclonaux. Ceux-ci sont synthétisés en laboratoire et leur but est de cibler les cellules cancéreuses.
+L&#39;immunothérapie est une technique prometteuse qui en est encore à ses débuts et qui prend de plus en plus de place dans le traitement de certains cancers.&lt;/p&gt;
 </description>
     </item>
     
