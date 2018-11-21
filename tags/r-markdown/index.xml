@@ -1,26 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>R Markdown on FIRSTNAME FAMILYNAME</title>
-    <link>/tags/r-markdown/</link>
-    <description>Recent content in R Markdown on FIRSTNAME FAMILYNAME</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018 FIRSTNAME FAMILYNAME (license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/))</copyright>
-    <lastBuildDate>Mon, 24 Sep 2018 18:36:00 -0100</lastBuildDate>
-    
-	<atom:link href="/tags/r-markdown/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Test de R Markdown</title>
-      <link>/post/2018-09-24-r-rmarkdown/</link>
-      <pubDate>Mon, 24 Sep 2018 18:36:00 -0100</pubDate>
-      
-      <guid>/post/2018-09-24-r-rmarkdown/</guid>
-      <description>Dans un document R Markdown on peut utiliser naturellement la syntaxe Markdown, mais aussi du code R dans des “chunks”, comme ci-dessous pour générer un graphique (Fig. 1) :
-par(mar = c(0, 1, 0, 1))pie(c(280, 60, 20),c(&amp;#39;Sky&amp;#39;, &amp;#39;Sunny side of pyramid&amp;#39;, &amp;#39;Shady side of pyramid&amp;#39;),col = c(&amp;#39;#0292D8&amp;#39;, &amp;#39;#F7EA39&amp;#39;, &amp;#39;#C4B632&amp;#39;),init.angle = -50, border = NA)Figure 1: Un superbe graphique en camembert.</description>
-    </item>
-    
-  </channel>
-</rss>
